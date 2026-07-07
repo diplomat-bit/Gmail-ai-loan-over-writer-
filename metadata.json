@@ -1,0 +1,8 @@
+{
+  "name": "AI Loan Email Manager",
+  "description": "Automatically retrieve and parse loan offer emails from Gmail, using AI to assess, compare, and optimize payoffs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
